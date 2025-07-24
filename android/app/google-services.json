@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "485115141334",
+    "project_id": "acne-detection-app",
+    "storage_bucket": "acne-detection-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:485115141334:android:eb1e3a3723f547f1fa7d77",
+        "android_client_info": {
+          "package_name": "com.example.acne_detection_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "485115141334-fb4pvnsrdhaj6r0uctgtmd8d46e8t7t1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.acne_detection_app",
+            "certificate_hash": "d56e24a629c4ceb776fc0f805c4cf5db948e9c97"
+          }
+        },
+        {
+          "client_id": "485115141334-q70kqrordd8c25lk7uk9roer6g7dgfco.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrASg4gf3KBCYW2eVJ7jBFDTLawz3vxuw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "485115141334-q70kqrordd8c25lk7uk9roer6g7dgfco.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
