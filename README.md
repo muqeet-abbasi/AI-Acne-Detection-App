@@ -3,6 +3,8 @@
 A new Flutter project.
 
 ## Getting Started
+<img src="https://github.com/muqeet-abbasi/AI-Acne-Detection-App/blob/main/images/WhatsApp%20Image%202025-06-17%20at%2000.50.12_b085711c.jpg" alt="Demo" width="200">
+
 
 ![My Image](https://github.com/muqeet-abbasi/AI-Acne-Detection-App/blob/main/images/WhatsApp%20Image%202025-06-17%20at%2000.50.12_b085711c.jpg)
 ![My Image](https://github.com/muqeet-abbasi/AI-Acne-Detection-App/blob/main/images/WhatsApp%20Image%202025-06-17%20at%2000.50.13_ec520d73.jpg)
