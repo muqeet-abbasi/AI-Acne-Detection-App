@@ -4,7 +4,7 @@ A new Flutter project.
 
 ## Getting Started
 
-![My Image](images/WhatsApp Image 2025-06-17 at 00.50.12_b085711c.jpg)](https://github.com/muqeet-abbasi/AI-Acne-Detection-App/blob/main/images/WhatsApp%20Image%202025-06-17%20at%2000.50.12_b085711c.jpg)
+![My Image](https://github.com/muqeet-abbasi/AI-Acne-Detection-App/blob/main/images/WhatsApp%20Image%202025-06-17%20at%2000.50.12_b085711c.jpg)
 
 
 
