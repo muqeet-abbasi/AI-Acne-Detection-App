@@ -4,7 +4,8 @@ A new Flutter project.
 
 ## Getting Started
 
-![My Image](myphoto.png)
+![My Image](images/myphoto.png)
+
 
 
 This project is a starting point for a Flutter application.
