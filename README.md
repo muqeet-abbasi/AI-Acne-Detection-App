@@ -7,10 +7,10 @@ A new Flutter project.
 ![My Image](https://github.com/muqeet-abbasi/AI-Acne-Detection-App/blob/main/images/WhatsApp%20Image%202025-06-17%20at%2000.50.12_b085711c.jpg)
 ![My Image](https://github.com/muqeet-abbasi/AI-Acne-Detection-App/blob/main/images/WhatsApp%20Image%202025-06-17%20at%2000.50.13_ec520d73.jpg)
 ![My Image](https://github.com/muqeet-abbasi/AI-Acne-Detection-App/blob/main/images/WhatsApp%20Image%202025-06-17%20at%2000.50.14_152fba05.jpg)
-![My Image](https://github.com/muqeet-abbasi/AI-Acne-Detection-App/blob/main/images/WhatsApp%20Image%202025-06-17%20at%2000.50.12_b085711c.jpg)
-![My Image](https://github.com/muqeet-abbasi/AI-Acne-Detection-App/blob/main/images/WhatsApp%20Image%202025-06-17%20at%2000.50.12_b085711c.jpg)
-![My Image](https://github.com/muqeet-abbasi/AI-Acne-Detection-App/blob/main/images/WhatsApp%20Image%202025-06-17%20at%2000.50.12_b085711c.jpg)
-![My Image](https://github.com/muqeet-abbasi/AI-Acne-Detection-App/blob/main/images/WhatsApp%20Image%202025-06-17%20at%2000.50.12_b085711c.jpg)
+![My Image](https://github.com/muqeet-abbasi/AI-Acne-Detection-App/blob/main/images/WhatsApp%20Image%202025-06-17%20at%2000.50.14_514d2ff4.jpg)
+![My Image](https://github.com/muqeet-abbasi/AI-Acne-Detection-App/blob/main/images/WhatsApp%20Image%202025-06-17%20at%2000.50.14_a679f289.jpg)
+![My Image](https://github.com/muqeet-abbasi/AI-Acne-Detection-App/blob/main/images/WhatsApp%20Image%202025-06-17%20at%2000.50.16_b9430a6a.jpg)
+![My Image](https://github.com/muqeet-abbasi/AI-Acne-Detection-App/blob/main/images/WhatsApp%20Image%202025-06-17%20at%2000.50.16_c2320ee6.jpg)
 
 
 
