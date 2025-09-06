@@ -16,9 +16,10 @@ A new Flutter project.
   <img src="https://github.com/muqeet-abbasi/AI-Acne-Detection-App/blob/main/images/WhatsApp%20Image%202025-06-17%20at%2000.50.17_30d39dfe.jpg" width="200"/>
   <img src="https://github.com/muqeet-abbasi/AI-Acne-Detection-App/blob/main/images/WhatsApp%20Image%202025-06-17%20at%2000.50.18_f51cc3cf.jpg" width="200"/>
   <img src="https://github.com/muqeet-abbasi/AI-Acne-Detection-App/blob/main/images/WhatsApp%20Image%202025-06-17%20at%2000.50.18_fca2c978.jpg" width="200"/>
+  <img src="https://github.com/muqeet-abbasi/AI-Acne-Detection-App/blob/main/images/WhatsApp%20Image%202025-06-17%20at%2000.50.18_7939f004.jpg" width="200"/>
   <img src="https://github.com/muqeet-abbasi/AI-Acne-Detection-App/blob/main/images/WhatsApp%20Image%202025-06-17%20at%2000.50.19_0123d459.jpg" width="200"/>
   <img src="https://github.com/muqeet-abbasi/AI-Acne-Detection-App/blob/main/images/WhatsApp%20Image%202025-06-17%20at%2000.50.19_ca78982d.jpg" width="200"/>
-  <img src="https://github.com/muqeet-abbasi/AI-Acne-Detection-App/blob/main/images/WhatsApp%20Image%202025-06-17%20at%2000.50.16_c2320ee6.jpg" width="200"/>
+  
   
 </p>
 
